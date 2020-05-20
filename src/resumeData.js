@@ -18,7 +18,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Je m'appelle Kévin THOMANN, je suis un jeune marseillais de 24 ans qui aime les fortes rigolades ! Je suis sorti de formation en développement web full-stack, formation effectué pendant 5 mois au campus de la Wild Code School de Marseille et je commence vraiment à apprécier le monde du web et j'ai hâte de devenir développeur et d'intégrer l'univers de la tech. De nature assez curieuse, j'aime m'ouvrir à différents points de vues et apprendre des uns et des autres, j'aime la satisfaction de réussir à trouver une solution à un problème donné et j'aime également beaucoup rigoler et mettre la bonne ambiance. Dans le cadre professionnel, j'aimerais contribuer à apporter des solutions au sein d'une entreprise, à pouvoir améliorer notre quotidien par le biais de sites et d'applications web et accomplir de beaux projets !",
-    "aboutme2":"J'ai deux grandes passions dans la vie : le jeu vidéo et la musique, qui me viennent de mon père depuis tout petit, j'y consacre beaucoup de temps, je joue beaucoup aux jeux vidéos, je joue également un peu de guitare et j'essaye de tout le temps lier ces deux mondes grâce à la musique. J'essaye au maximum de me tenir au courant de ce qui ce passe dans ces milieux là (un peu à la manière de mes veilles technologiques).",
+    "aboutme2":"J'ai deux grandes passions dans la vie : le jeu vidéo et la musique, qui me viennent de mon père depuis tout petit, j'y consacre beaucoup de temps. À mes heures perdues je joue un peu de guitare et j'essaye de tout le temps lier ces deux mondes grâce à la musique. J'essaye au maximum de me tenir au courant de ce qui ce passe dans ces milieux là (un peu à la manière de mes veilles technologiques).",
     "address":"Marseille, 13013",
     "details":"Titulaire du permis B et véhiculé",
     "phonenumber":"06 35 30 68 50",
@@ -90,7 +90,7 @@ let resumeData = {
     "portfolioresume":"J'ai réalisé 3 projets (les images redirigent vers les liens correspondants) durant ma formation à la Wild Code School.",
     "portfolioresume1":"Le premier est un site statique sur le thème du jeu League of Legends, réalisé en 1 semaine, durant le 1er mois de formation . Le deuxième est un Pokédex de la 1ère génération de Pokémon avec un mini combat Pokémon qui nous a permis d'introduire React ainsi que l'utilisation d'API externes. Enfin le dernier est un réel projet client qui nous a pris nos deux derniers mois de formation. Il s'agit d'un back office admin, réservé à Anais, Co-fondatrice et Présidente chez Neoworker. Ce projet nous a permis d'approfondir les méthodes agiles (SCRUM) en situation réelle, pour un vrai client, un vrai projet et aussi de découvrir de nouveaux concept comme l'authentification via JW Token, l'utilisation du middleware Sequelize. Il est disponible pour le test via mon repository sur Github en suivant les instructions d'installation sur le README.md",
     "portfolioresume2":"Ces 3 projets ont été réalisés en équipe (de 3 à 5 personnes)",
-    "portfolioresume3":"Je n'ai pas encore de réalisation personnelle, mise à part ce portfolio (c'est un template, je n'ai pas tout fait de mes mains !) dont la partie jeux vidéo/musique est à venir ;)",
+    "portfolioresume3":"Je n'ai pas encore de réalisation personnelle, mise à part ce portfolio (c'est un template, je n'ai pas tout fait de mes mains !) et la partie `Musique dans les jeux vidéos` qui est à venir ;)",
     "portfolio":[
       {
         "name":"Salt of Legends",
